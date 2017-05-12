@@ -1,4 +1,4 @@
-$background-color: rgba(251, 251, 251, .95);
+$background-color: rgba(251, 251, 251, 0.95);
 
 .portfolio-project-summary {
   background-color: $background-color;
@@ -13,7 +13,7 @@ $background-color: rgba(251, 251, 251, .95);
 
   &__description {
     margin-left: 50px;
-    margin-top: 23px; 
+    margin-top: 23px;
 
     h3 {
       font-family: 'Poppins', sans-serif;
@@ -37,7 +37,7 @@ $background-color: rgba(251, 251, 251, .95);
   }
 }
 
-.technologies-list { 
+.technologies-list {
   display: flex;
   flex-direction: row;
   overflow: hidden;
