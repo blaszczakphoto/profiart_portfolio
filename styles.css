@@ -9,20 +9,20 @@
   .portfolio-project-summary__description {
     margin-left: 50px;
     margin-top: 23px; }
-    .portfolio-project-summary__description h3 {
+    .portfolio-project-summary__description__header {
       font-family: 'Poppins', sans-serif;
       color: #333131;
       font-size: 14px;
       text-align: left; }
-    .portfolio-project-summary__description p {
+      .portfolio-project-summary__description__header--last {
+        margin-bottom: 18px; }
+    .portfolio-project-summary__description__text {
       font-family: 'Poppins', sans-serif;
       color: #6d6d6d;
       font-size: 12px;
       font-weight: 300;
       line-height: 17px;
       text-align: left; }
-  .portfolio-project-summary__technologies h3 {
-    margin-bottom: 18px; }
 
 .technologies-list {
   display: flex;
